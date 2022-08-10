@@ -20,6 +20,8 @@ My Projects
 * Extracted and parsed Yahoo Finance website using python libraries BeautifulSoup and Requests
 * Created end-to-end process of downloading, parsing and saving of extracted data
 
+
+
 * 👨‍💻 All of my projects are available at [Jovian Profile](https://jovian.ai/darshandesai).
 
 * :speech_balloon: Ask me about **MySQL, Python, Statistics, Web scrapping, EDA**
